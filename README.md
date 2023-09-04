@@ -1,6 +1,6 @@
 # Employee-Management-System
 
-I Build a **Full-Stack Java Application** using >>> Java, Spring Boot 3, Spring Data JPA, Spring Security, JWT, JavaScript, React JS & MySQL
+I Build a **Full-Stack Java Application** using >>> Java, Spring Boot 3, Spring Data JPA, JavaScript, React JS & MySQL
 
 **Backend Implementation using Spring Boot**
 
